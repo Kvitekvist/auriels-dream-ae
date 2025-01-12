@@ -57,10 +57,6 @@ If you are having any issues with Wabbajack completing the installation, [Click 
 ## 3. Optional steps to do after Auriel's Dream is installed
 The game is now ready to launch. But you can make a few optional selections before booting.
 
-### 3.1 Activate the Essential Files and ENB
-This step is optional. 
-Here we have 3 categories. Opencomposite, ENB / ReShade and Upscaler.
-
 **ReShade** is a visual improvement, but it cost FPS.
 
 **Upscaler** is also kind of recommended. Choose one. You can find these in the Community Shader interface while in game. Press the END key to open the menu.
