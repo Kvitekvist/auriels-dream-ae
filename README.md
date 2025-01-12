@@ -21,7 +21,7 @@
 
 ## 1. Auriel's Dream
 
-Auriel's Dream is a graphical overhaul of Skyrim VR. The focus is to stay close to vanilla while improving the visual experience to next levels. A few mods change gameplay. Check the [Noteworthy Mods](#noteworthy-mods) section later on for more information on is changed.
+Auriel's Dream is a graphical overhaul of Skyrim. The focus is to stay close to vanilla while improving the visual experience to next levels. A few mods change gameplay. Check the [Noteworthy Mods](#noteworthy-mods) section later on for more information on is changed.
 
 Here is a quick install video:
 https://www.youtube.com/watch?v=DRH5D-qEu9I
@@ -46,7 +46,7 @@ Let us start the install process.
 
 ### [Prepare your PC for Wabbajack](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Prepare-PC-for-modlist) (Do this if you do not already have Wabbajack setup)
 See this page, if it is your first time installing a Wabbajack list.
-It will take you through a process that makes sure WJ can install correctly, that windows will not block any files and how to prevent automatic steam updates for SkyrimVR. All these together makes sure that the install process is the same and goes smoothly for all users.
+It will take you through a process that makes sure WJ can install correctly, that windows will not block any files and how to prevent automatic steam updates for Skyrim. All these together makes sure that the install process is the same and goes smoothly for all users.
 
 ### [Downloading and Installing Auriel's Dream](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Download-and-Installing-the-modlist)
 Next step is to download the modlist and install it. [Click here](https://github.com/Kvitekvist/Auriel-s-Dream/wiki/Download-and-Installing-the-modlist) to see how to download and install Auriel's Dream.
@@ -61,13 +61,10 @@ The game is now ready to launch. But you can make a few optional selections befo
 This step is optional. 
 Here we have 3 categories. Opencomposite, ENB / ReShade and Upscaler.
 
-**Opencomposite** is recommended for meta quest users. But it only works with link cable or air link, not virtual desktop. This option gives you a huge performance boost.
+**ReShade** is a visual improvement, but it cost FPS.
 
-**ENB or ReShade** is a visual improvement, but it cost FPS. How much is indicated with low, medium or high.  High cost dont always mean better visuals. Try them out. Only choose one ENB or one ReShade. You can also use one ENB and one ReShade together but i wont recommend that for most users.
-
-**Upscaler** is also kind of recommended. Choose one.
+**Upscaler** is also kind of recommended. Choose one. You can find these in the Community Shader interface while in game. Press the END key to open the menu.
 DLAA cost more FPS but also removes pretty much all shimmer in the game. Need RTX graphics card.
-DLSS gives performance boost but lowers the visual quality a little. Also removes shimmer. Need RTX graphics card.
 FSR works for both AMD and  Nvidia cards. Applies foveated rendering, boosting performance by reducing resolution of stuff that is not in the center of the lenses.
 
 ![image](https://raw.githubusercontent.com/Kvitekvist/Auriel-s-Dream/master/images/optional%20boot%20files.png)
@@ -78,13 +75,6 @@ FSR works for both AMD and  Nvidia cards. Applies foveated rendering, boosting p
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to "Play" by selecting it in the dropdown box and then hitting the run button.
 ![image](https://github.com/Kvitekvist/Auriel-s-Dream/blob/master/images/run%20AD.jpg?raw=true)
-
-### Setup VRIK
-I made 2 videos for VRIK
-1. Setup Weapon Holsters: https://www.youtube.com/watch?v=KTGhQCVcgNE
-In this video you learn how you can attach weapons to your avator body in VR. Meaning you can grab a a bow from your back, a sword from your hip and so on.
-2. Setup Gestures: https://www.youtube.com/watch?v=CEi7gwN8hgg
-Gestures are VERY powerful in VR. By making hand gestures you can instantly equip a spell, weapon or even armor. You can instantly cast spells by waving your hand, or consume potions. Playing this way allows you to avoid opening the menu too frequently.
 
 ## 5. Optional content in Auriel's Dream
 
@@ -114,7 +104,3 @@ Check this page for how to update the modlist.
 ## 8. Removing the Modlist
 
 First, run the 2 programs in MO2 called "ENB" and "Essential Files", and toggle off all the options in the preset. You can now remove the MO2 folder and be done with it.
-
-# 9. Changelog
-
-See [Changelog](CHANGELOG.md).
